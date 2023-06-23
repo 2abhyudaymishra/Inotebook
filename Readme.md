@@ -1,4 +1,4 @@
-# INotesbook
+# INotebook
 
 This is a full-stack notes application that allows users to create, read, update, and delete notes. It consists of a backend server built with Node.js and Express, and a frontend client built with React.
 
